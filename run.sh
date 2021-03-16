@@ -1,1 +1,1 @@
-gcc main.c str.c -o bin/server -lpthread
+gcc main.c str.c -o server -lpthread
